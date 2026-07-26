@@ -58,12 +58,3 @@ I made this project because I've been there. I've played on 15 FPS, watched my f
 If you can't pay — enjoy the FREE version, it's yours.
 If you can pay a little — thank you, you're helping me build something bigger.
 
-📝 Summary (for your website)
-"I made NEMESIS STEAM BOOSTER because I know what it's like to game on low-end hardware. Years of struggling with FPS drops, stuttering, and lag taught me every trick in the book to optimize Windows for gaming. I want to share this knowledge with everyone — for free.
-
-The FREE version gives you all the core tools: RAM optimization, system tweaks, game library, and more.
-
-The PREMIUM version exists because I'm saving up for better hardware. As a student/developer, I need to upgrade my own PC to keep testing and improving the launcher. Your support — even just 199 RUB (~$2) — helps me continue this project.
-
-Everyone deserves playable FPS, regardless of their budget. That's why I built this."
-
